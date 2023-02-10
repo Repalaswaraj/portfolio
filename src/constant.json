@@ -1,0 +1,40 @@
+{
+    "projects" : [
+        {
+            "title" : "Placement Portal",
+            "image": "https://spiderimg.amarujala.com/assets/images/results.amarujala.com/2018/06/29/990x460/makauts-placement-portal_1530246331.jpeg",
+            "desc" : "Here a student can register for placements and can access the portal and a placement Officer can access the portal and he can also create drives,announcements block/unblock students. ",
+            "skills": ["HTML","CSS","Javascript"],
+            "github": "https://github.com/Repalaswaraj/Placement-portal.git",
+            "link": "/"
+        },
+        {
+            "title" : "Guess the word game",
+            "image": "https://lh3.googleusercontent.com/a_mgQffxZ9C77Rl9D036Nuc234XKf1ON34gB0mrjE-AjE1HVls3o6mEaCBg0vpqZ-m4",
+            "desc" : "Simple puzzle game",
+            "skills": ["HTML","CSS","Javascript"],
+            "github": "https://github.com/Repalaswaraj/guess_word_bullseye.git",
+            "link": "/"
+        },
+        {
+            "title" : "Quiz-App",
+            "image": "https://www.gannett-cdn.com/indepth-static-assets/uploads/master/69748609007/846d76a7-3575-4f87-a92f-1256a84d362e-quiz22.jpg?width=2160",
+            "desc" : "The  quiz has basic GK to test your knowledge and the user can get the result in percentage.",
+            "skills": ["HTML","CSS","Javascript","ReactJs"],
+            "github": "https://github.com/sanjaydharsans/Gallery-reactjs.git",
+            "link": "/"
+        },
+
+        {
+           
+            "title" : "Casino-Game",
+            "image": "https://thumbs.dreamstime.com/b/word-casino-transparent-background-new-best-design-luck-banner-gambling-poker-slot-roulette-red-neon-bone-165640226.jpg",
+            "desc" : "User can add amount and can play the betting on a number from 1-10, If user bet on the wrong number he will lose his money that he have used for betting",
+            "skills": ["HTML","CSS","Javascript","ReactJs"],
+            "github": "https://github.com/Repalaswaraj/Casino_game.git",
+            "link": "/"
+        }
+    ]
+
+
+}
